@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Персонажи  ",
+      "color": {
+        "a": 1,
+        "rgb": 7628977
+      }
+    },
+    {
+      "query": "path:Мир/Города  ",
+      "color": {
+        "a": 1,
+        "rgb": 9625682
+      }
+    },
+    {
+      "query": "path:Монстры  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701166
+      }
+    },
+    {
+      "query": "path:Мир/Страны  ",
+      "color": {
+        "a": 1,
+        "rgb": 2111504
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 1.45260416666667,
+  "collapse-forces": false,
+  "centerStrength": 0.432291666666667,
+  "repelStrength": 8.95833333333333,
+  "linkStrength": 1,
+  "linkDistance": 245,
+  "scale": 0.7132754626224425,
+  "close": true
+}
