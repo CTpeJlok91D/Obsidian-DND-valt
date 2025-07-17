@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Палланор/Лидия.md",
+                "file": "Персонажи/Воины тауриона/Ромеро (Буря).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лидия"
+              "title": "Ромеро (Буря)"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Капитан (Рекс)"
             }
+          },
+          {
+            "id": "b2cb471a73508f66",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +175,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "703edd0ed02e9ed3",
   "lastOpenFiles": [
-    "Images/Pasted image 20250715141152.png",
     "Персонажи/Палланор/Лидия.md",
+    "Images/Pasted image 20250715141152.png",
     "Images/Pasted image 20250717200915.png",
     "Pasted image 20250715141154.png.md",
     "Персонажи/Воины тауриона/Ромеро (Буря).md",
