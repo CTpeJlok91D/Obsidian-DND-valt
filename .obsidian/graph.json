@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 2722718
       }
+    },
+    {
+      "query": "tag:#Сценарий  ",
+      "color": {
+        "a": 1,
+        "rgb": 11711354
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 245,
-  "scale": 0.7132754626224432,
-  "close": true
+  "scale": 0.7132754626224436,
+  "close": false
 }

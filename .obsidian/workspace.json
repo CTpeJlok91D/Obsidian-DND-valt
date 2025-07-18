@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f18f326c660f2e97",
+        "id": "e5b0c4e93c146a35",
         "type": "tabs",
         "children": [
           {
-            "id": "7bcb326da9d1a6eb",
+            "id": "5c92e28306067b22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/NPC/Странники смерти.md",
+                "file": "Глава 2/Встреча на берегу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Странники смерти"
-            }
-          },
-          {
-            "id": "16f6414659dffb6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонажи/Игроки/Эймон (Счастливчик).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эймон (Счастливчик)"
-            }
-          },
-          {
-            "id": "76c1690c926889db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Глава 2/Встреча с бурей.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Встреча с бурей"
-            }
-          },
-          {
-            "id": "08be8548fb23acd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонажи/NPC/Воины тауриона/Ромеро (Буря).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ромеро (Буря)"
-            }
-          },
-          {
-            "id": "31ca15aa5b2c29d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонажи/Игроки/Труляля.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Труляля"
+              "title": "Встреча на берегу"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,17 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08be8548fb23acd3",
+  "active": "5c92e28306067b22",
   "lastOpenFiles": [
     "Глава 2/Встреча с бурей.md",
-    "Персонажи/NPC/Воины тауриона/Ромеро (Буря).md",
-    "Глава 2/Untitled.md",
+    "Глава 2/Встреча на берегу.md",
     "Глава 2/Начало.md",
+    "Мир/Страны/Маконнэ.md",
+    "Персонажи/NPC/Странники смерти.md",
+    "Персонажи/Игроки/Труляля.md",
+    "Персонажи/Игроки/Эймон (Счастливчик).md",
+    "Персонажи/NPC/Воины тауриона/Ромеро (Буря).md",
     "Мир/Города/Рендрок/Таверна Пчела и жалко.md",
     "Глава 2",
-    "Персонажи/Игроки/Эймон (Счастливчик).md",
-    "Персонажи/Игроки/Труляля.md",
-    "Персонажи/NPC/Странники смерти.md",
     "Персонажи/NPC/Заряново/Радамир.md",
     "Мир/Города/Рендрок/Г. Рендрок.md",
     "Мир/Города/Рендрок",
@@ -281,7 +225,6 @@
     "Персонажи/NPC/Воины тауриона/Каэл'зур.md",
     "Задания",
     "Мир/Страны/Таурион - Гильдия магов.md",
-    "Мир/Страны/Таурион.md",
     "Персонажи/NPC/Ютландия",
     "Персонажи/NPC/Палланор",
     "Предметы",
