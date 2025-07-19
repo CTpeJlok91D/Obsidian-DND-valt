@@ -39,10 +39,14 @@
             "id": "a0378bf42e71b934",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/NPC/Жители Рендрока/Рекс (Капитан).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рекс (Капитан)"
             }
           }
         ],
@@ -205,13 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0378bf42e71b934",
+  "active": "02ac24e93c0af95b",
   "lastOpenFiles": [
+    "Персонажи/NPC/Жители Рендрока/Рекс (Капитан).md",
     "Глава 2/Тюрьма.md",
-    "Глава 2/Начало.md",
     "Глава 2/Встреча в библиотеке.md",
-    "Глава 2/Untitled.md",
+    "Глава 2/Начало.md",
     "Глава 2/Встреча с бурей.md",
+    "Images/Pasted image 20250715114942.png",
+    "Глава 2/Untitled.md",
     "Монстры/Леший.md",
     "Audio/выстрел 2.mp3",
     "Audio/выстрел 1 1.mp3",
@@ -248,11 +254,8 @@
     "Images/Pasted image 20250715141152.png",
     "Images/Pasted image 20250717200915.png",
     "Pasted image 20250715141154.png.md",
-    "Images/Pasted image 20250715105952.png",
     "Предметы/Сфера безумия.md",
     "Груз.md",
-    "Мир/Страны/Ютландия.md",
-    "Персонажи/NPC/Жители Рендрока/Рекс (Капитан).md",
     "Test.canvas"
   ]
 }
