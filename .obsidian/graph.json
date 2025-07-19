@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Персонажи/NPC ",
@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 11711354
       }
+    },
+    {
+      "query": "tag:#Предмет  ",
+      "color": {
+        "a": 1,
+        "rgb": 11635852
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.4015625,
-  "lineSizeMultiplier": 1.45260416666667,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 1.478125,
   "collapse-forces": false,
-  "centerStrength": 0.432291666666667,
-  "repelStrength": 8.95833333333333,
-  "linkStrength": 1,
-  "linkDistance": 245,
-  "scale": 0.7132754626224443,
+  "centerStrength": 0.5,
+  "repelStrength": 10.3125,
+  "linkStrength": 0.526041666666667,
+  "linkDistance": 270,
+  "scale": 0.7132754626224468,
   "close": true
 }
