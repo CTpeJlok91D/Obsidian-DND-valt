@@ -11,10 +11,14 @@
             "id": "8712f2cfd0bba772",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Глава 2/1. Начало.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Начало"
             }
           }
         ]
@@ -153,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -167,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,6 +183,8 @@
   },
   "active": "8712f2cfd0bba772",
   "lastOpenFiles": [
+    "Мир/Глобальная карта.png",
+    "Мир/Остров Антопа.png",
     "Глава 2/4. Тюрьма.md",
     "Мир/Страны/Маконнэ.md",
     "Мир/Города/Рендрок/Лагерь бандитов.md",
@@ -210,12 +217,10 @@
     "Images/Ключ 5.png",
     "Images/Пчела.png",
     "Персонажи/NPC/Особое",
-    "Images/Город.jpg",
     "Персонажи/NPC/Заряново/Радамир.md",
     "Предметы/Груз.md",
     "Персонажи/NPC/Воины тауриона/Ромеро (Буря).md",
     "Персонажи/NPC/Воины тауриона/Зорик.md",
-    "Монстры/Леший.md",
     "Audio/выстрел 2.mp3",
     "Audio/выстрел 1 1.mp3",
     "Audio/выстрел 1.mp3",
