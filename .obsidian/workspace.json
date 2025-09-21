@@ -153,8 +153,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +173,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "3c3ed39b5e2f42f8",
   "lastOpenFiles": [
+    "Drawing 2025-09-21 13.57.25.excalidraw.md",
+    "Images/Заряново карта.webp",
     "Страны/Палланор/🗿Лидия.md",
     "Страны/Таурион/🗿Вжик.md",
     "Страны/Палланор/Заряново/🛖Заряново.canvas",
@@ -196,7 +198,6 @@
     "_Index_of_Obsidian-DND-valt.md",
     "Страны/Палланор/🏳️Палланор.md",
     "Страны/Палланор/Заряново",
-    "Images/Заряново карта.webp",
     "Страны/Палланор/Рендрок/🏙️Рендрок.canvas",
     "Images/Pasted image 20250715110007.png",
     "Images/Pasted image 20250715110037.png",
@@ -216,8 +217,6 @@
     "Страны/Таурион/🗿Эллисандра.md",
     "Страны/Палланор/Рендрок/💀Радамир.md",
     "Игроки/Гонщики/🚩Гонщики.md",
-    "Игроки/Гонщики/👤Труляля.md",
-    "Страны/Палланор/Заряново/🔥Сгоревшая церковь.md",
     "Images/Рендрок.jpg",
     "Images/Каэл'зур.png",
     "Images/Pasted image 20250715105952.png",
