@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:💀",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Предмет  ",
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1.68229166666667,
   "lineSizeMultiplier": 1.478125,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.510416666666667,
   "repelStrength": 10.8333333333333,
   "linkStrength": 0.526041666666667,
   "linkDistance": 111,
-  "scale": 0.36288736930121795,
+  "scale": 0.713275462622457,
   "close": true
 }
