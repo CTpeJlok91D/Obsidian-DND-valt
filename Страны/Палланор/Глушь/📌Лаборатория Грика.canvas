@@ -16,13 +16,18 @@
 		{"id":"e9d9f6deda266f81","type":"text","text":"Каждый игрок перед уходом выбирает 1 простое оружие, что бы забрать его с собой. Броня не положена","x":660,"y":-320,"width":547,"height":202},
 		{"id":"cbb59f66cc39b308","type":"text","text":"### Рояль \nПри испольвании бардовского вдохновения вы добавляете 1d8 вместо 1d6, но пока вы его носите с собой, у вас помеха на все провеки","x":906,"y":-693,"width":314,"height":300},
 		{"id":"5c945c7670f6acbb","type":"text","text":"### Свесток смерти\n\nСвисток в форме черепа.\nПосвистев в него вы и все вокруг умрёте. Независимо от того, услышали вы свист или нет. По крайней мере так Грик говорит","x":1240,"y":-693,"width":320,"height":300},
-		{"id":"e09c850eba51cbb9","type":"text","text":"### 🔫Эксперементальные оружия","x":813,"y":-920,"width":500,"height":50}
+		{"id":"e09c850eba51cbb9","type":"text","text":"### 🔫Эксперементальные оружия","x":813,"y":-920,"width":500,"height":50},
+		{"id":"dcf71d65a4d38e6f","type":"text","text":"### 🔫Эксперементальные оружия","x":2020,"y":-920,"width":500,"height":50},
+		{"id":"94eed2d3b68c9474","x":1760,"y":-693,"width":510,"height":300,"type":"text","text":"### 🔪Несмертельный кинжал\nВы не можете убить цель этим кинжалом. Наносит дополнительно 1d4 урона.\n\nПри каждом ударе бросайте проверку 1d20 - 10. При провале получите 2d4 урона."},
+		{"id":"fc0e4007e848275b","x":2300,"y":-693,"width":250,"height":300,"type":"text","text":"### Златострел\nПотратьте 3 золотых, что бы выстрелить в противника. Урон 1d6, навык: ловкость."}
 	],
 	"edges":[
 		{"id":"d7c3fc9423553e8f","fromNode":"5a97617a1d250cbd","fromSide":"bottom","toNode":"e8fef7a9736dad93","toSide":"top"},
 		{"id":"b9c4598d31b6b00e","fromNode":"922681077d0be3ea","fromSide":"left","toNode":"2e6541170e9af9d3","toSide":"right"},
 		{"id":"2128c029682a49f9","fromNode":"e09c850eba51cbb9","fromSide":"bottom","toNode":"0ff01ad4802640e9","toSide":"top"},
 		{"id":"24b3ab8726a7140d","fromNode":"e09c850eba51cbb9","fromSide":"bottom","toNode":"cbb59f66cc39b308","toSide":"top"},
-		{"id":"19513c6889d9f67f","fromNode":"e09c850eba51cbb9","fromSide":"bottom","toNode":"5c945c7670f6acbb","toSide":"top"}
+		{"id":"19513c6889d9f67f","fromNode":"e09c850eba51cbb9","fromSide":"bottom","toNode":"5c945c7670f6acbb","toSide":"top"},
+		{"id":"c4361fd4c515c9c4","fromNode":"dcf71d65a4d38e6f","fromSide":"bottom","toNode":"94eed2d3b68c9474","toSide":"top"},
+		{"id":"8fe9357718c5ac57","fromNode":"dcf71d65a4d38e6f","fromSide":"bottom","toNode":"fc0e4007e848275b","toSide":"top"}
 	]
 }
