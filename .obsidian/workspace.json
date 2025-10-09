@@ -52,21 +52,45 @@
             "id": "8a1d2fee7652dc65",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Страны/Палланор/Авалон/🏙️Авалон.canvas",
-                "viewState": {
-                  "x": -117.44742539795558,
-                  "y": 128.28514068234867,
-                  "zoom": -0.9999999999999998
-                }
+                "file": "Страны/Палланор/Заряново/🗿Торвин Медовар.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "🏙️Авалон"
+              "icon": "lucide-file",
+              "title": "🗿Торвин Медовар"
+            }
+          },
+          {
+            "id": "9f676fd28f5a66b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Страны/Палланор/Заряново/🗿Лара.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🗿Лара"
+            }
+          },
+          {
+            "id": "a0127523e0044754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Страны/Палланор/Заряново/🗿Ива.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🗿Ива"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,8 +251,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a1d2fee7652dc65",
+  "active": "4764ec07fc5542bf",
   "lastOpenFiles": [
+    "Страны/Палланор/Заряново/🗿Ива.md",
+    "Страны/Палланор/Заряново/🗿Лара.md",
+    "Страны/Палланор/Заряново/🗿Торвин Медовар.md",
+    "Страны/Палланор/Заряново/🗿Рыцарь в отставке. Вол.md",
+    "Страны/Палланор/Заряново/🗿Мельничиха. Ноя.md",
+    "Страны/Палланор/Заряново/🗿Гаррик.md",
     "Страны/Палланор/Глушь/📌Лаборатория Грика.canvas",
     "Страны/Палланор/Авалон/🏙️Авалон.canvas",
     "Мир/Карта.md",
@@ -265,19 +295,14 @@
     "Страны/Палланор/Заряново/🛖Заряново.canvas",
     "Страны/Таурион",
     "Страны/Ютландия",
-    "Страны/Палланор/Заряново/🗿Лара.md",
     "Страны/Таурион/🏳️Таурион.md",
     "Страны/Палланор/Рендрок/_Index_of_Рендрок.md",
     "Страны/Палланор/Заряново/📌Кузница.md",
     "Мир/_Index_of_Мир.md",
     "Страны/_Index_of_Страны.md",
-    "Мир/Города/_Index_of_Города.md",
-    "_Index_of_Obsidian-DND-valt.md",
-    "Страны/Палланор/🏳️Палланор.md",
     "Images/Pasted image 20250715110007.png",
     "Images/Pasted image 20250715110037.png",
     "Images/Pasted image 20250715105942.png",
-    "Страны/Палланор/Заряново/🗿Мельничиха. Ноя.md",
     "Images/Рендрок.jpg",
     "Images/Каэл'зур.png",
     "Test.canvas"
