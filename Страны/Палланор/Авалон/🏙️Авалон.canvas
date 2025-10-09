@@ -1,1 +1,32 @@
-{}
+{
+	"nodes":[
+		{"id":"bda7b45a4fb8ff7e","type":"file","file":"Страны/Палланор/Авалон/the-cliffside-town-of-upadra-v0-04ok4aqzn7df1.webp","x":-280,"y":-200,"width":760,"height":570},
+		{"id":"79dc676175c687c0","type":"text","text":"# 2️⃣\n### 💰 Торговый караван в Рендрок\nНа рынке находится торговый караван. Они готовы провидить группу игроков до Рендрок'а, если игроки им заплатят 25 зм каждый.","x":-280,"y":400,"width":400,"height":360},
+		{"id":"f6c63952ae09b6b2","type":"text","text":"Торговер оружием","x":-1000,"y":370,"width":250,"height":60},
+		{"id":"961096707f42dd9d","type":"text","text":"Кожанник","x":-1000,"y":480,"width":250,"height":60},
+		{"id":"bf57eafc953df253","type":"text","text":"Торговец сувенирами","x":-1000,"y":580,"width":250,"height":60},
+		{"id":"8a4a12c604baa701","type":"text","text":"Задание: Потерянный свисток смерти","x":-1600,"y":580,"width":315,"height":60},
+		{"id":"dfa9c860eefcbde5","x":-1000,"y":680,"width":250,"height":60,"type":"text","text":"Бабка качок с пироками"},
+		{"id":"73c4bfc999e990ad","x":-1600,"y":680,"width":315,"height":60,"type":"text","text":"Задание: найти вора муки и привески к ней"},
+		{"id":"5a2f959d6194c350","x":-1000,"y":780,"width":250,"height":60,"type":"text","text":"Сатир из леса"},
+		{"id":"c01cc572e3c10d2c","x":-1600,"y":780,"width":315,"height":60,"type":"text","text":"Задания: Разобраться с лесником, вырубающим лес"},
+		{"id":"1d69f0159bdf75cc","x":540,"y":130,"width":371,"height":240,"type":"text","text":"# 9️⃣\n### 🪵Хижина лесника\n\n"},
+		{"id":"a7574a5fbd9bae19","x":-837,"y":-94,"width":477,"height":314,"type":"text","text":"# 7️⃣\n### ⛪Церковь\n"},
+		{"id":"ac84dbe6decca47b","x":-1200,"y":33,"width":250,"height":60,"type":"text","text":"Священник"},
+		{"id":"17f9be881a2007c3","x":-1600,"y":9,"width":250,"height":107,"type":"text","text":"Задание: украсть у похороненного мертвеца кольцо"},
+		{"id":"b8ee302b64ffa6ae","x":1120,"y":200,"width":360,"height":100,"type":"text","text":"Задание: Убрать сатира, который мешает вырубать лес."}
+	],
+	"edges":[
+		{"id":"ed35ac40fb27685c","fromNode":"79dc676175c687c0","fromSide":"left","toNode":"f6c63952ae09b6b2","toSide":"right"},
+		{"id":"d670d2e946d036c3","fromNode":"79dc676175c687c0","fromSide":"left","toNode":"961096707f42dd9d","toSide":"right"},
+		{"id":"2b7857df0353c92e","fromNode":"79dc676175c687c0","fromSide":"left","toNode":"bf57eafc953df253","toSide":"right"},
+		{"id":"52497d855ce72b83","fromNode":"bf57eafc953df253","fromSide":"left","toNode":"8a4a12c604baa701","toSide":"right"},
+		{"id":"f2837f2e21bb7ee6","fromNode":"79dc676175c687c0","fromSide":"left","toNode":"dfa9c860eefcbde5","toSide":"right"},
+		{"id":"af8007c66358e2ba","fromNode":"dfa9c860eefcbde5","fromSide":"left","toNode":"73c4bfc999e990ad","toSide":"right"},
+		{"id":"392f0be15866df1c","fromNode":"79dc676175c687c0","fromSide":"left","toNode":"5a2f959d6194c350","toSide":"right"},
+		{"id":"84589af12b286e5a","fromNode":"5a2f959d6194c350","fromSide":"left","toNode":"c01cc572e3c10d2c","toSide":"right"},
+		{"id":"4a0b0246b055b64f","fromNode":"1d69f0159bdf75cc","fromSide":"right","toNode":"b8ee302b64ffa6ae","toSide":"left"},
+		{"id":"d552a04449b11316","fromNode":"a7574a5fbd9bae19","fromSide":"left","toNode":"ac84dbe6decca47b","toSide":"right"},
+		{"id":"ff0c435e732024fa","fromNode":"ac84dbe6decca47b","fromSide":"left","toNode":"17f9be881a2007c3","toSide":"right"}
+	]
+}
