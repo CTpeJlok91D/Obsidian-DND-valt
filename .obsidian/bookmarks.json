@@ -1,3 +1,60 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1760106230628,
+      "title": "Связь между территориями и NPC",
+      "options": {
+        "collapse-filter": false,
+        "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag:#Монстр  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#Локация  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "tag:#NPC  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "tag:#Предмет  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701261
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -0.3,
+        "nodeSizeMultiplier": 1.0953125,
+        "lineSizeMultiplier": 1.37604166666667,
+        "collapse-forces": false,
+        "centerStrength": 0.333333333333333,
+        "repelStrength": 11.5625,
+        "linkStrength": 0.973958333333333,
+        "linkDistance": 81,
+        "scale": 0.6336545848083233,
+        "close": false
+      }
+    }
+  ]
 }

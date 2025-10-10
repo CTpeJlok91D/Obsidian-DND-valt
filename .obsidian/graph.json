@@ -1,72 +1,51 @@
 {
   "collapse-filter": false,
-  "search": "-path:💀",
+  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Предмет  ",
+      "query": "tag:#Локация  ",
       "color": {
         "a": 1,
-        "rgb": 11635852
-      }
-    },
-    {
-      "query": "tag:Локация",
-      "color": {
-        "a": 1,
-        "rgb": 1586893
-      }
-    },
-    {
-      "query": "tag:#Страна  ",
-      "color": {
-        "a": 1,
-        "rgb": 4607095
-      }
-    },
-    {
-      "query": "tag:#Игрок  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 14725458
       }
     },
     {
       "query": "tag:#NPC  ",
       "color": {
         "a": 1,
-        "rgb": 8762027
+        "rgb": 5431378
       }
     },
     {
-      "query": "tag:#Монстр  ",
+      "query": "tag:#Предмет  ",
       "color": {
         "a": 1,
-        "rgb": 13774125
+        "rgb": 14701261
       }
     },
     {
-      "query": "tag:#Группа_людей",
+      "query": "tag: #Задание  ",
       "color": {
         "a": 1,
-        "rgb": 13814809
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.68229166666667,
-  "lineSizeMultiplier": 1.478125,
+  "nodeSizeMultiplier": 1.27395833333333,
+  "lineSizeMultiplier": 1.37604166666667,
   "collapse-forces": true,
-  "centerStrength": 0.510416666666667,
-  "repelStrength": 10.8333333333333,
-  "linkStrength": 0.526041666666667,
-  "linkDistance": 111,
-  "scale": 0.6336545848083179,
-  "close": true
+  "centerStrength": 0.104166666666667,
+  "repelStrength": 7.39583333333333,
+  "linkStrength": 0.776041666666667,
+  "linkDistance": 260,
+  "scale": 0.451970267122001,
+  "close": false
 }
