@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62a3d72da8a3145f",
+        "id": "712a24343a5c9be9",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d4fea9b3652876",
+            "id": "285d627fa851cc73",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7d4fea9b3652876",
+  "active": "285d627fa851cc73",
   "lastOpenFiles": [
     "Страны/Палланор/Ряженка/🏙️Ряженка.canvas",
     "Страны/Палланор/Глушь/🗿Грик.md",
