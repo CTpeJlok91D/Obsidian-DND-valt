@@ -17,7 +17,7 @@
                 "file": "Страны/Палланор/Авалон/🏙️Авалон.canvas",
                 "viewState": {
                   "x": -489.24844298504865,
-                  "y": 704.3821052809402,
+                  "y": 587.209447640717,
                   "zoom": -0.3333333333333334
                 }
               },
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
