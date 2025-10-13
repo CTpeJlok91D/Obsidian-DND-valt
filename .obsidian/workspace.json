@@ -34,9 +34,9 @@
               "state": {
                 "file": "Страны/Палланор/Глушь/📌Лаборатория грика - карта.canvas",
                 "viewState": {
-                  "x": -458.05527389928477,
-                  "y": -2054.083138656229,
-                  "zoom": 1
+                  "x": -581.8117392568191,
+                  "y": -2408.4070394338623,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -180,8 +180,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -202,7 +202,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "2337511a8b438db3",
