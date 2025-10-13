@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Город")
+    order:
+      - file.name
+      - Страна
+      - Canvas
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 122
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("Город")
+    order:
+      - file.name
+      - Страна
