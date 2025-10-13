@@ -2,11 +2,11 @@
   "mapMarkers": [
     {
       "id": "глобальная_карта",
-      "lastAccessed": 1760375599812,
+      "lastAccessed": 1760377930028,
       "markers": [
         {
           "id": "ID_58b9e8c9cb99",
-          "type": "Город",
+          "type": "Село",
           "loc": [
             -16.75,
             157.3759454126932
@@ -31,7 +31,7 @@
             -10.875,
             153.37463005590266
           ],
-          "link": "Рендрок",
+          "link": "🏙️Рендрок",
           "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -63,12 +63,109 @@
           "minZoom": 2,
           "maxZoom": 3,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_087829eb3ba8",
+          "type": "Село",
+          "loc": [
+            -12.5,
+            163.99930121670502
+          ],
+          "link": "🏙️Ряженка",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.34166521086813545,
+            0.046296296296296294
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": 3,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6928493b58ea",
+          "type": "Город",
+          "loc": [
+            -0.00274658203125,
+            0.037964108036521706
+          ],
+          "link": "Рендрок",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.32396038857831855,
+            0.041666666666666664
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": 100,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29a86868785a",
+          "type": "Село",
+          "loc": [
+            -0.003570556640625,
+            0.03826895265036686
+          ],
+          "link": "🛖Заряново",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 15,
+          "maxZoom": 15,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28bb59eb8828",
+          "type": "Село",
+          "loc": [
+            -0.003204345703125,
+            0.03964212324148101
+          ],
+          "link": "🏙️Ряженка",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.33827945166063794,
+            0.04861111111111111
+          ],
+          "description": null,
+          "minZoom": 15,
+          "maxZoom": 15,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca4b5b6aeb99",
+          "type": "Город",
+          "loc": [
+            -0.009674072265625,
+            0.029722415079846267
+          ],
+          "link": "🏙️Авалон",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2536312753480215,
+            0.14675925925925926
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": 100,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Мир/Глобальная карта.md"
+        "Мир/Глобальная карта (В км).md"
       ]
     }
   ],
@@ -96,10 +193,28 @@
         "x": 10.180766105651855,
         "y": 1.8872017860412598
       },
-      "isImage": false,
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAtBJREFUSEullk1IVFEUx39nHCdSF5GURbWI6HNRlKVZjk0IQdAugiAisI0YLkwNQyKjLylxYx+0sYVBi6hdBIE0zWhjmBQESkUFUZSG0kKNxhlvvtsbe3PnvZmgszzn3P///s8579wnZDEFQog8wM8saxEqdLoiho93QIIwSbE8HiZufg28iXyKNeBlsIHNZGEARQvjxBhmxo0og0CBjxBLSXAc4UI2hY5YK3l0E2ZMYNZ5JpMgyHIUrQgn/hE8lXYNuCRRvnoSqFIKKOAYcMMAt241geKb9gvLgMVYatPRapmiR4aYTrnnFei6V7IZ4ZUBPgW8RXEHuG3HahCOAOuAQiN/C1Fep/rxl8C6fSF1KK46DljT0Y+iSfp47gRSlZQjdAC7taaU+Wgkzk2J8fOPWNtUNSXEGQRWOYAmELokQpvrtFXRhqLeLlcq5RMByqSX0XSCClbg57NR0wGgTiK89CDYqvul2JkWT7BSYnz5f4Ig2+yBKM9NUE4JAfqBNfPJilF8dEhE1zrDVJBmhEYUJY7ge5LskmeMmQoW4qcW6DSQBlGckj7CRpNDCFeAHUZ+AwluZTTZSlJVbEQxbByIg27+fYQ3OqZYDxy0wQNG3zZJhJGUL+1LVkGWoLiOcMilIj+Aj7Z/NbAos2bcszaARPnuThDCj2Ivszx2q3lOn499CE8kTMKVQKuvppg4LUBTTsD0hA4CtEsv40632zYV9rCdJHcRx0RlZ/uAj8M85YW5st3fgxBFJDnqsvS8aOrIo0fCTJoJrgS6VGUUE6Ae4WzWywvn5p6mLrM0nj1IBfR2rWIDivP2SLp8aTxAOEOUEa9n01OBVmFNVZID9sdnjabTrJE9yTQPZYgZL5VZCTTJfhYwSc3c3rfWeGr3W29EM0V0yyN+ZSthTgJNUko+BTQA7RpMOM0UndlunrMH5q30z0CQVu2PctF83L1U/AY/H84ZphwlqwAAAABJRU5ErkJggg==",
       "tags": [],
-      "minZoom": 2,
-      "maxZoom": 3
+      "minZoom": 0,
+      "maxZoom": 100
+    },
+    {
+      "type": "Село",
+      "iconName": "map-marker-alt",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 10.180766105651855,
+        "y": 1.8872017860412598
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAtBJREFUSEullk1IVFEUx39nHCdSF5GURbWI6HNRlKVZjk0IQdAugiAisI0YLkwNQyKjLylxYx+0sYVBi6hdBIE0zWhjmBQESkUFUZSG0kKNxhlvvtsbe3PnvZmgszzn3P///s8579wnZDEFQog8wM8saxEqdLoiho93QIIwSbE8HiZufg28iXyKNeBlsIHNZGEARQvjxBhmxo0og0CBjxBLSXAc4UI2hY5YK3l0E2ZMYNZ5JpMgyHIUrQgn/hE8lXYNuCRRvnoSqFIKKOAYcMMAt241geKb9gvLgMVYatPRapmiR4aYTrnnFei6V7IZ4ZUBPgW8RXEHuG3HahCOAOuAQiN/C1Fep/rxl8C6fSF1KK46DljT0Y+iSfp47gRSlZQjdAC7taaU+Wgkzk2J8fOPWNtUNSXEGQRWOYAmELokQpvrtFXRhqLeLlcq5RMByqSX0XSCClbg57NR0wGgTiK89CDYqvul2JkWT7BSYnz5f4Ig2+yBKM9NUE4JAfqBNfPJilF8dEhE1zrDVJBmhEYUJY7ge5LskmeMmQoW4qcW6DSQBlGckj7CRpNDCFeAHUZ+AwluZTTZSlJVbEQxbByIg27+fYQ3OqZYDxy0wQNG3zZJhJGUL+1LVkGWoLiOcMilIj+Aj7Z/NbAos2bcszaARPnuThDCj2Ivszx2q3lOn499CE8kTMKVQKuvppg4LUBTTsD0hA4CtEsv40632zYV9rCdJHcRx0RlZ/uAj8M85YW5st3fgxBFJDnqsvS8aOrIo0fCTJoJrgS6VGUUE6Ae4WzWywvn5p6mLrM0nj1IBfR2rWIDivP2SLp8aTxAOEOUEa9n01OBVmFNVZID9sdnjabTrJE9yTQPZYgZL5VZCTTJfhYwSc3c3rfWeGr3W29EM0V0yyN+ZSthTgJNUko+BTQA7RpMOM0UndlunrMH5q30z0CQVu2PctF83L1U/AY/H84ZphwlqwAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": 15,
+      "maxZoom": 15
     }
   ],
   "color": "#dddddd",
