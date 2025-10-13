@@ -42,16 +42,18 @@
             "id": "e5285e760318c0e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Мир/Карта.md"
+                "file": "Мир/Глобальная карта.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Карта"
+              "icon": "lucide-file",
+              "title": "Глобальная карта"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +215,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "cec33ef5dee43392",
+  "active": "e5285e760318c0e5",
   "lastOpenFiles": [
-    "Мир/Глобальная карта.md",
     "Мир/Карта.md",
+    "Мир/Глобальная карта.md",
+    "Рендрок.md",
     "Мир/Остров Антопа.png",
     "Мир/Глобальная карта.png",
     "Страны/Палланор/Авалон/🏙️Авалон.canvas",

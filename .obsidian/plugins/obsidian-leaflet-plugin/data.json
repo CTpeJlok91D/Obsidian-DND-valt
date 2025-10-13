@@ -1,17 +1,107 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "глобальная_карта",
+      "lastAccessed": 1760375599812,
+      "markers": [
+        {
+          "id": "ID_58b9e8c9cb99",
+          "type": "Город",
+          "loc": [
+            -16.75,
+            157.3759454126932
+          ],
+          "link": "🛖Заряново",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.32786655294311084,
+            0.062037037037037036
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": 3,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b1b580b8adb",
+          "type": "Город",
+          "loc": [
+            -10.875,
+            153.37463005590266
+          ],
+          "link": "Рендрок",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.31953047928313055,
+            0.04027777777777778
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": 3,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fba828091998",
+          "type": "Город",
+          "loc": [
+            -47.375,
+            109.62467116080236
+          ],
+          "link": "🏙️Авалон",
+          "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2283847315850049,
+            0.17546296296296296
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": 3,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Мир/Глобальная карта.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
-    "iconName": "map-marker",
+    "iconName": "map-pin",
     "color": "#dddddd",
     "transform": {
       "size": 6,
-      "x": 0,
-      "y": -2
+      "x": 10.180766105651855,
+      "y": 1.8872017860412598
     },
-    "isImage": false
+    "isImage": false,
+    "imageUrl": "data:image/png;base64,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"
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Город",
+      "iconName": "map-marker-alt",
+      "color": "#2d6cbe",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 10.180766105651855,
+        "y": 1.8872017860412598
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 2,
+      "maxZoom": 3
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
