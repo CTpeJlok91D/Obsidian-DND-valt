@@ -13,9 +13,9 @@
   "formulas": {},
   "defaultRoll": 1,
   "defaultFace": 100,
-  "renderer": false,
+  "renderer": true,
   "renderAllDice": false,
-  "addToView": false,
+  "addToView": true,
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1,
@@ -75,6 +75,280 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "viewResults": [],
+  "viewResults": [
+    {
+      "result": "5",
+      "original": "1d10",
+      "resultText": "1d10\n[5.5]",
+      "timestamp": 1760380339858,
+      "id": "D4CkOd9VKKgv"
+    },
+    {
+      "result": "66",
+      "original": "12d10",
+      "resultText": "12d10\n[5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5]",
+      "timestamp": 1760380339872,
+      "id": "7kFw6WNjy75i"
+    },
+    {
+      "result": "225",
+      "original": "18d12 + 108",
+      "resultText": "18d12 + 108\n[6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5, 6.5] + 108",
+      "timestamp": 1760380339873,
+      "id": "wriRsSXgBET-"
+    },
+    {
+      "result": "22",
+      "original": "1d20+12",
+      "resultText": "1d20+12\n[10.5]+12",
+      "timestamp": 1760380339873,
+      "id": "W1Hvk-RI8Om6"
+    },
+    {
+      "result": "18",
+      "original": "2d10 + 7",
+      "resultText": "2d10 + 7\n[5.5, 5.5] + 7",
+      "timestamp": 1760380339873,
+      "id": "C42uJiAEKQHn"
+    },
+    {
+      "result": "22",
+      "original": "1d20+12",
+      "resultText": "1d20+12\n[10.5]+12",
+      "timestamp": 1760380339873,
+      "id": "gR2nuGpaCDGh"
+    },
+    {
+      "result": "14",
+      "original": "2d6 + 7",
+      "resultText": "2d6 + 7\n[3.5, 3.5] + 7",
+      "timestamp": 1760380339874,
+      "id": "8bnpcotoP6Tz"
+    },
+    {
+      "result": "22",
+      "original": "1d20+12",
+      "resultText": "1d20+12\n[10.5]+12",
+      "timestamp": 1760380339874,
+      "id": "ynWNoEce0M44"
+    },
+    {
+      "result": "16",
+      "original": "2d8 + 7",
+      "resultText": "2d8 + 7\n[4.5, 4.5] + 7",
+      "timestamp": 1760380339874,
+      "id": "9ZFXpXeXcOnY"
+    },
+    {
+      "result": "14",
+      "original": "2d6 + 7",
+      "resultText": "2d6 + 7\n[3.5, 3.5] + 7",
+      "timestamp": 1760380339874,
+      "id": "crqgPCp-I9Fh"
+    },
+    {
+      "result": "10",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[5]+5",
+      "timestamp": 1760381128746,
+      "id": "bIvNiOYX1Yil"
+    },
+    {
+      "result": "15",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[10]+5",
+      "timestamp": 1760381133241,
+      "id": "gvQkZDCSxAXQ"
+    },
+    {
+      "result": "10",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[4, 1] + 5",
+      "timestamp": 1760381170297,
+      "id": "eksttFIHb5Hd"
+    },
+    {
+      "result": "14",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[9]+5",
+      "timestamp": 1760381200747,
+      "id": "WRN7XArec2KX"
+    },
+    {
+      "result": "19",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[6, 8] + 5",
+      "timestamp": 1760381200747,
+      "id": "gGT8RCeOyDzz"
+    },
+    {
+      "result": "12",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[7]+5",
+      "timestamp": 1760381262748,
+      "id": "KTigcHbVR-2e"
+    },
+    {
+      "result": "13",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[4, 4] + 5",
+      "timestamp": 1760381262748,
+      "id": "JAnTVQ6Bs9jC"
+    },
+    {
+      "result": "8",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[3]+5",
+      "timestamp": 1760381267587,
+      "id": "ys3YozVTiSOF"
+    },
+    {
+      "result": "17",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[5, 7] + 5",
+      "timestamp": 1760381267587,
+      "id": "0CXlPkimBleJ"
+    },
+    {
+      "result": "13",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[8]+5",
+      "timestamp": 1760381272038,
+      "id": "bHXlpF-Zzraq"
+    },
+    {
+      "result": "12",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[2, 5] + 5",
+      "timestamp": 1760381272038,
+      "id": "Vp-8yqKlUS6E"
+    },
+    {
+      "result": "14",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[9]+5",
+      "timestamp": 1760381419197,
+      "id": "ASO5mDgTOzus"
+    },
+    {
+      "result": "15",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[4, 6] + 5",
+      "timestamp": 1760381419197,
+      "id": "Rw0vYKqY-gn9"
+    },
+    {
+      "result": "14",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[9]+5",
+      "timestamp": 1760381493212,
+      "id": "fWJGYYcPbekq"
+    },
+    {
+      "result": "15",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[7, 3] + 5",
+      "timestamp": 1760381493213,
+      "id": "kSvTgiRlIXfZ"
+    },
+    {
+      "result": "11",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[6]+5",
+      "timestamp": 1760381495159,
+      "id": "V9XJdhyjOrgA"
+    },
+    {
+      "result": "14",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[8, 1] + 5",
+      "timestamp": 1760381495159,
+      "id": "LJsE6OG_2BIk"
+    },
+    {
+      "result": "6",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[1]+5",
+      "timestamp": 1760381496075,
+      "id": "YHzMCCV5BfxL"
+    },
+    {
+      "result": "10",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[4, 1] + 5",
+      "timestamp": 1760381496075,
+      "id": "Ya8GREs10wf-"
+    },
+    {
+      "result": "15",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[10]+5",
+      "timestamp": 1760381566731,
+      "id": "MYuJWB0Eut-z"
+    },
+    {
+      "result": "16",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[5, 6] + 5",
+      "timestamp": 1760381566731,
+      "id": "bMpmOBgxU3no"
+    },
+    {
+      "result": "11",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[6]+5",
+      "timestamp": 1760381594977,
+      "id": "mpk93dAV6ggp"
+    },
+    {
+      "result": "14",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[2, 7] + 5",
+      "timestamp": 1760381594977,
+      "id": "_vLr9Ob-xyCR"
+    },
+    {
+      "result": "12",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[7]+5",
+      "timestamp": 1760381651603,
+      "id": "o_el5TPV1cVw"
+    },
+    {
+      "result": "16",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[3, 8] + 5",
+      "timestamp": 1760381651603,
+      "id": "acBfsR6lKs1t"
+    },
+    {
+      "result": "7",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[2]+5",
+      "timestamp": 1760381775238,
+      "id": "kHRfyuXsmb9b"
+    },
+    {
+      "result": "10",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[4, 1] + 5",
+      "timestamp": 1760381775238,
+      "id": "x30XdCSvimXL"
+    },
+    {
+      "result": "11",
+      "original": "1d10+5",
+      "resultText": "1d10+5\n[6]+5",
+      "timestamp": 1760381800167,
+      "id": "-WkNYiCyoJbL"
+    },
+    {
+      "result": "9",
+      "original": "2d8 + 5",
+      "resultText": "2d8 + 5\n[2, 2] + 5",
+      "timestamp": 1760381800167,
+      "id": "wQgmncxdGiP_"
+    }
+  ],
   "version": "11.4.2"
 }

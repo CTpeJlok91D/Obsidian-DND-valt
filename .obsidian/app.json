@@ -1,5 +1,16 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "tabSize": 4,
+  "newFileLocation": "current"
 }

@@ -1,0 +1,36 @@
+views:
+  - type: cards
+    name: Галерея
+    filters:
+      and:
+        - file.hasTag("NPC")
+    order:
+      - file.name
+      - Раса
+      - Класс
+    image: note.Изображение
+    imageFit: ""
+    imageAspectRatio: 1.35
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.hasTag("NPC")
+    order:
+      - file.name
+      - Раса
+      - Уровень
+      - Хиты
+      - Сила
+      - Ловкость
+      - Телосложение
+      - Мудрость
+      - Интеллект
+      - Харизма
+      - Местоположение
+    sort:
+      - property: Сила
+        direction: DESC
+    columnSize:
+      note.Ловкость: 40
+      note.Телосложение: 60

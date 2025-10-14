@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab862d134ecb9559",
+        "id": "209c9c6f149b4899",
         "type": "tabs",
         "children": [
           {
-            "id": "9c416b06d54c024b",
+            "id": "863c3db8d7ab1355",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Страны/Палланор/Авалон/🏙️Авалон.canvas",
-                "viewState": {
-                  "x": 492.936165007,
-                  "y": 711.6532012986871,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "Персонажи/Живые/🗿Торговец сувенирами.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "🏙️Авалон"
+              "icon": "lucide-file",
+              "title": "🗿Торговец сувенирами"
             }
           }
         ]
@@ -90,8 +85,99 @@
     "type": "split",
     "children": [
       {
-        "id": "54e6e2b55a3c8451",
+        "id": "b0c03d3cfc833e27",
         "type": "tabs",
+        "dimension": 72.67441860465117,
+        "children": [
+          {
+            "id": "bb4f2dc250824458",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "ed748390e8e23882",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "7a42c8dfc1895c5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Персонажи/Живые/🗿Торговец сувенирами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🗿Торговец сувенирами"
+            }
+          },
+          {
+            "id": "3cc1fe0531719b81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Персонажи/Живые/🗿Торговец сувенирами.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🗿Торговец сувенирами"
+            }
+          },
+          {
+            "id": "3897b8e944ab4d19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f42eefba30815c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Персонажи/Живые/🗿Торговец сувенирами.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🗿Торговец сувенирами"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3d58ec493a9c39c",
+        "type": "tabs",
+        "dimension": 27.32558139534884,
         "children": [
           {
             "id": "745b0297500e2910",
@@ -106,26 +192,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "b0c03d3cfc833e27",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb4f2dc250824458",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 504.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,62 +209,65 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "745b0297500e2910",
+  "active": "863c3db8d7ab1355",
   "lastOpenFiles": [
-    "Страны/Палланор/Авалон/🏙️Авалон.canvas",
-    "Страны/Палланор/Авалон/Задания/🎯Ну не руби.md",
-    "Страны/Палланор/Авалон/Задания/🎯Вор.md",
-    "Страны/Палланор/🗿Лидия.md",
-    "Кубы.md",
-    "Untitled",
-    "Страны/Города.base",
-    "Шаблоны/Новая карта (Leaflet).md",
-    "Страны/Палланор/Ряженка/Ряженка.md",
-    "Страны/Палланор/Авалон/Авалон.md",
-    "Страны/Палланор/🏳️Палланор.md",
-    "Мир/Карта.md",
-    "Страны/Палланор/Рендрок/Рендрок.md",
-    "Страны/Палланор/Заряново/Заряново.md",
-    "Страны/Палланор/Заряново/🛖Заряново.canvas",
-    "Страны/Палланор/Глушь/🗿Грик.md",
-    "Страны/Палланор/Глушь/Лабаратория грика.png",
-    "Страны/Палланор/Глушь/📌Лаборатория грика - карта.canvas",
-    "Страны/Палланор/Глушь/📌Лаборатория Грика.canvas",
-    "Страны/Палланор/Глушь/Drawing 2025-10-13 19.02.42.excalidraw.md",
-    "Страны/Палланор/Авалон/Страны.base",
-    "Шаблоны/Персонаж.md",
-    "Шаблоны/Город.md",
-    "Страны/Палланор/Ряженка/🏙️Ряженка.canvas",
-    "Страны/Палланор/Рендрок/Untitled.md",
-    "Бестиарий/🧌Медвесыч.md",
+    "Страны/Палланор/Авалон/NPC.base",
+    "Персонажи/Галерея.base",
+    "Игроки/Галерея.base",
+    "Images/Глуа.jpg",
+    "Изображения.base",
+    "Персонажи/Живые/🗿Дургрим Железная Рука.md",
+    "Персонажи/Живые/🗿Констебль.md",
+    "Страны/Таурион/Ряженка/Ряженка.md",
     "Мир/Глобальная карта (В км).md",
-    "🏙️Авалон.md",
-    "🏙️Рендрок.md",
-    "Мир/Остров Антопа.png",
-    "Мир/Глобальная карта.png",
-    "Страны/Палланор/Авалон/Локации/📌 Рынок.md",
-    "Note.md",
-    "Templates/Untitled.md",
-    "Untitled.canvas",
-    "Шаблоны",
+    "Шаблоны/Новая локация.md",
+    "Предметы/📦Сфера безумия.md",
+    "Предметы/📦Груз.md",
+    "Расы/Гном.md",
+    "Расы/Кованный.md",
+    "Игроки/Гонщики/👤Билли милиган.md",
+    "Шаблоны/Новый игрок.md",
+    "Игроки/Пачаток/👤ДеСант Глуа.md",
+    "Игроки/Гонщики/👤Эймон (Счастливчик).md",
+    "Игроки/Гонщики/👤Труляля.md",
+    "Игроки/Пачаток/👤София.md",
+    "Игроки/Гонщики/👤Ксардан.md",
+    "Игроки/Untitled.base",
+    "Игроки/Пачаток/👤Лия.md",
+    "Images/Глуа token.png",
+    "Images/софа.jpg",
+    "Images/софа token.png",
+    "Images/лия.jpg",
+    "Images/лия token.png",
     "Страны/Палланор/Глушь/📌Лаборатория Грика.md",
-    "Images/Token tamplate.png",
-    "Страны/Палланор/Рендрок/🗿Рекс (Капитан).md",
-    "Images/Pasted image 20250718215253.png",
-    "Страны/Палланор/Авалон/Персонажи/Арамис ДеСант Старший.png",
-    "Images/Pasted image 20251011112728.png",
-    "Images/Pasted image 20251011111010.png",
-    "Images/Сатир.png",
-    "Images/the-cliffside-town-of-upadra-v0-04ok4aqzn7df1.webp",
-    "Страны/Палланор/Заряново/Локации",
-    "Страны/Палланор/Заряново/Персонажи",
-    "Страны/Палланор/Авалон/Монстры",
-    "Страны/Палланор/Авалон/Задания",
-    "Игроки/Пачаток/История",
-    "Игроки/Пачаток/Игроки",
+    "Страны/Палланор/Авалон/Локации/📌Переулок.md",
+    "Страны/Палланор/Авалон/Локации/Переулок.jpg",
+    "Страны/Палланор/Авалон/🗺️Авалон.canvas",
+    "Страны/Палланор/Авалон/🏙️Авалон.md",
+    "Страны/Палланор/Глушь/Лаба.md",
+    "Страны/Палланор/Авалон/Локации/📌 Кузница.md",
+    "Страны/Палланор/Авалон/Локации/📌 Рынок.md",
+    "Страны/Палланор/Глушь/Лабаратория грика.png",
+    "Страны/Палланор/Глушь/📌Лаборатория Грика.canvas",
+    "Шаблоны/Новая карта (Leaflet).md",
+    "Мир/Глобальная карта.png",
+    "Images/dead.png",
+    "Персонажи/Трупы/💀Отец василий.md",
+    "Страны/Города.base",
+    "Персонажи/Живые",
+    "Классы",
+    "Расы/Untitled",
+    "Страны/Палланор/Заряново/🛖Заряново.canvas",
+    "Страны/Палланор/Заряново/NPC.base",
+    "Страны/Палланор/Авалон/Untitled.canvas",
+    "Страны/Палланор/Глушь/📌Лаборатория грика - карта.canvas",
+    "Страны/Таурион/Ряженка/🏙️Ряженка.canvas",
+    "Untitled.canvas",
     "Мир/Карта.canvas",
     "Страны/Палланор/Рендрок/🏙️Рендрок.canvas",
     "Test.canvas"

@@ -1,14 +1,14 @@
+#Локация
 ```leaflet
 id: tempId
-image: [[tempImage]]
-height: 1920px
-lat: 540
-long: 960
-minZoom: 1
+image: [[Таверна.jpg]]
+### lat: 540
+### long: 960
+height: 100%
+width: 100%
+minZoom: 8
 maxZoom: 10
-defaultZoom: 5
-unit: meters
+defaultZoom: 8
+unit: footes
 scale: 1
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: true
 ```

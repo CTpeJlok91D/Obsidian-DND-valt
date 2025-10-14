@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\"",
+  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\" -tag:#Раса  -file:\".canvas\" -file:\".base\" -path:Шаблоны  -tag:#Класс  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -41,11 +41,11 @@
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1.58020833333333,
   "lineSizeMultiplier": 1.75885416666667,
-  "collapse-forces": false,
-  "centerStrength": 0.104166666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.377230549607423,
   "repelStrength": 13.4375,
-  "linkStrength": 0.776041666666667,
-  "linkDistance": 260,
-  "scale": 0.05951871830413298,
+  "linkStrength": 0.913990007137759,
+  "linkDistance": 170,
+  "scale": 0.4040250194451657,
   "close": true
 }

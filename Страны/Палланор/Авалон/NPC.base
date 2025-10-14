@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Карты
+    filters:
+      and:
+        - file.hasTag("NPC")
+        - file.links.containsAny(link("📌Банк"), link("📌Корчма"), link("📌 Рынок"), link("📌Церковь"), link("Страны/Палланор/Авалон/Локации/📌Гарнизон", "📌Гарнизон"), link("📌 Кузница"), link("📌Дом отшельника"), link("📌 Ювелирный магазин"))
+    order:
+      - file.name
+      - Раса
+    image: note.Изображение
+    imageFit: ""
+    imageAspectRatio: 1.5

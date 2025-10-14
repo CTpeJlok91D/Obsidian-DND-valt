@@ -1,0 +1,25 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Монстр")
+  - type: cards
+    name: Карты
+    filters:
+      and:
+        - file.hasTag("Монстр")
+    order:
+      - file.name
+      - Сила
+      - Ловкость
+      - Интеллект
+      - Телосложение
+      - Мудрость
+      - Хиты
+    image: note.Изображение
+    imageFit: contain
+    cardSize: 220
+    imageAspectRatio: 1.5

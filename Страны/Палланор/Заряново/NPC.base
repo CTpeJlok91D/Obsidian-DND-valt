@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Карты
+    filters:
+      and:
+        - file.hasTag("NPC")
+        - file.links.containsAny(link("📌Кузница"), link("📌Таверна"), link("📌Мельница"), link("📌Особняк Ивы"), link("🔥Сгоревшая церковь"))
+    order:
+      - file.name
+      - Раса
+    image: note.Изображение
+    imageFit: ""
+    imageAspectRatio: 1.5

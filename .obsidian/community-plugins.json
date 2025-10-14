@@ -5,5 +5,8 @@
   "advanced-canvas",
   "obsidian-leaflet-plugin",
   "obsidian-meta-bind-plugin",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "initiative-tracker",
+  "templater-obsidian",
+  "buttons"
 ]
