@@ -183,8 +183,39 @@
       "files": []
     },
     {
+      "id": "авалон",
+      "locked": false,
+      "lastAccessed": 1760436588061,
+      "markers": [
+        {
+          "id": "ID_a8dad97a7979",
+          "type": "Группа игроков",
+          "loc": [
+            -0.0800254019062836,
+            0.2513777697079656
+          ],
+          "layer": "%5B%5B%D0%90%D0%B2%D0%B0%D0%BB%D0%BE%D0%BD.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.953373467336877,
+            0.4046716619853551
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Страны/Палланор/Авалон/🏙️Авалон.md"
+      ]
+    },
+    {
       "id": "лабаратория_грика",
-      "lastAccessed": 1760436331882,
+      "lastAccessed": 1760436612081,
       "markers": [
         {
           "id": "ID_cb69d9a94999",
@@ -255,69 +286,6 @@
       "shapes": [],
       "files": [
         ""
-      ]
-    },
-    {
-      "id": "авалон",
-      "lastAccessed": 1760436331882,
-      "markers": [
-        {
-          "id": "ID_a8dad97a7979",
-          "type": "Группа игроков",
-          "loc": [
-            -0.08208149080111393,
-            0.25091903884566025
-          ],
-          "layer": "%5B%5B%D0%90%D0%B2%D0%B0%D0%BB%D0%BE%D0%BD.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9516336880665041,
-            0.4150688720016823
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#ff0000",
-          "vertices": [
-            {
-              "lat": -0.07859835701886232,
-              "lng": 0.20478869434536429,
-              "id": "ID_0aea0838a84a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -0.060897939885916796,
-              "lng": 0.23921579575827812,
-              "id": "ID_492abb4a198a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -0.053817773032738596,
-              "lng": 0.1740240505295689,
-              "id": "ID_daab4b09b9ba",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": true,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "Страны/Палланор/Авалон/🏙️Авалон.md"
       ]
     }
   ],
@@ -403,7 +371,45 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 12,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "100%",
+    "image": "[[Авалон.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Авалон.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 13,
+    "minZoom": 9,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1500,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "авалон",
+    "width": "100%",
+    "unit": "m",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
