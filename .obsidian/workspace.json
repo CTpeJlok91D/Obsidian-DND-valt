@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "🏙️Авалон"
             }
+          },
+          {
+            "id": "436f5dc8495416b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Страны/Палланор/Авалон/🏙️Авалон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🏙️Авалон"
+              "title": "Backlinks"
             }
           },
           {
@@ -134,12 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Страны/Палланор/Авалон/🏙️Авалон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🏙️Авалон"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Страны/Палланор/Авалон/🏙️Авалон.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏙️Авалон"
+              "title": "Outline"
             }
           }
         ]
@@ -214,14 +222,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48d2c305d2de0c7a",
+  "active": "436f5dc8495416b9",
   "lastOpenFiles": [
+    "Страны/Палланор/Авалон/🏙️Авалон.md",
     "Страны/Палланор/Авалон/🗺️Авалон.canvas",
     "Страны/Палланор/Авалон/NPC.base",
     "Страны/Палланор/Авалон/Авалон.webp",
     "Страны/Палланор/Глушь/📌Лаборатория Грика.canvas",
     "Страны/Палланор/Глушь/📌Лаборатория Грика.md",
-    "Страны/Палланор/Авалон/🏙️Авалон.md",
     "Мир/Глобальная карта (В км).md",
     "Мир/Глобальная карта.png",
     "Персонажи/Галерея.base",
