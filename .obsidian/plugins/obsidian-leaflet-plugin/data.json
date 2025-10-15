@@ -183,56 +183,9 @@
       "files": []
     },
     {
-      "id": "авалон",
-      "locked": false,
-      "lastAccessed": 1760436588061,
-      "markers": [
-        {
-          "id": "ID_a8dad97a7979",
-          "type": "Группа игроков",
-          "loc": [
-            -0.0800254019062836,
-            0.2513777697079656
-          ],
-          "layer": "%5B%5B%D0%90%D0%B2%D0%B0%D0%BB%D0%BE%D0%BD.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.953373467336877,
-            0.4046716619853551
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Страны/Палланор/Авалон/🏙️Авалон.md"
-      ]
-    },
-    {
       "id": "лабаратория_грика",
-      "lastAccessed": 1760436612081,
+      "lastAccessed": 1760459782802,
       "markers": [
-        {
-          "id": "ID_cb69d9a94999",
-          "type": "default",
-          "loc": [
-            -0.2766070155729208,
-            1.3857857545621675
-          ],
-          "layer": "%5B%5B%D0%9B%D0%B0%D0%B1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B3%D1%80%D0%B8%D0%BA%D0%B0.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
         {
           "id": "ID_e95a292a7829",
           "type": "Село",
@@ -248,34 +201,33 @@
           "minZoom": 15,
           "maxZoom": 15,
           "tooltip": "hover"
-        },
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Страны/Палланор/Глушь/📌Лаборатория Грика.md"
+      ]
+    },
+    {
+      "id": "авалон",
+      "locked": false,
+      "lastAccessed": 1760459791863,
+      "markers": [
         {
-          "id": "ID_d8fb38fbea69",
-          "type": "default",
+          "id": "ID_a8dad97a7979",
+          "type": "Группа игроков",
           "loc": [
-            -0.5873639105106931,
-            1.1601792859070381
+            -0.08199306650666248,
+            0.25059784005846986
           ],
-          "layer": "%5B%5B%D0%9B%D0%B0%D0%B1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B3%D1%80%D0%B8%D0%BA%D0%B0.png%5D%5D",
+          "layer": "%5B%5B%D0%90%D0%B2%D0%B0%D0%BB%D0%BE%D0%BD.webp%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ea7a29883b2a",
-          "type": "default",
-          "loc": [
-            -0.6104502935054705,
-            0.9979767067397547
+          "percent": [
+            0.950415511925456,
+            0.41462172890282656
           ],
-          "layer": "%5B%5B%D0%9B%D0%B0%D0%B1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B3%D1%80%D0%B8%D0%BA%D0%B0.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -285,7 +237,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        ""
+        "Страны/Палланор/Авалон/🏙️Авалон.md"
       ]
     }
   ],
