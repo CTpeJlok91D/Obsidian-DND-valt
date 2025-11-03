@@ -8,6 +8,7 @@ views:
     order:
       - file.name
       - Раса
+      - Местоположение
     image: note.Изображение
     imageFit: ""
     imageAspectRatio: 1.5

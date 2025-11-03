@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Доспех")
+        - file.hasLink("Персонажи/Живые/Виктор/⚖️Виктор - кожанник")
+    order:
+      - file.name
+      - Стоимость
+      - КД
+      - Скрытность
+    image: note.Изображение
+    imageAspectRatio: 1.3

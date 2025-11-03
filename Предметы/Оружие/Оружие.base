@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Карты
+    filters:
+      and:
+        - file.hasTag("Оружие")
+    image: note.Изображение
+    imageFit: ""
+    imageAspectRatio: 1.5

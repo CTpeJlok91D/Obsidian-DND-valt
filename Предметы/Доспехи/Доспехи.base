@@ -1,0 +1,26 @@
+views:
+  - type: cards
+    name: Доспехи карты
+    filters:
+      and:
+        - file.hasTag("Доспех")
+        - '!file.inFolder("Шаблоны")'
+    order:
+      - file.name
+      - Стоимость
+      - КД
+      - Скрытность
+    image: note.Изображение
+    imageFit: ""
+    imageAspectRatio: 1.45
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.hasTag("Доспех")
+    order:
+      - file.name
+      - Стоимость
+      - КД
+      - Скрытность
+      - Изображение
