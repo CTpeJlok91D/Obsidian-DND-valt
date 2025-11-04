@@ -76,13 +76,5 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.4.2",
-  "viewResults": [
-    {
-      "result": "31",
-      "original": "4d12",
-      "resultText": "4d12\n[6, 6, 7, 12]",
-      "timestamp": 1762172091941,
-      "id": "hOVa-PY7CdIs"
-    }
-  ]
+  "viewResults": []
 }

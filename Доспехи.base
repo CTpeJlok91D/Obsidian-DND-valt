@@ -7,6 +7,7 @@ views:
         - '!file.inFolder("Шаблоны")'
     order:
       - file.name
+      - Тип доспеха
       - Стоимость
       - КД
       - Скрытность

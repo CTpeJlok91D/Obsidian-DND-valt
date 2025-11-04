@@ -42,6 +42,7 @@
     "Доспех": "text",
     "Вес": "number",
     "Задания": "multitext",
-    "Свойства": "multitext"
+    "Свойства": "multitext",
+    "Родственники": "multitext"
   }
 }

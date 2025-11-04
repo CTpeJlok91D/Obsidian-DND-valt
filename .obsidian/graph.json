@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\" -tag:#Раса  -file:\".canvas\" -file:\".base\" -path:Шаблоны  -tag:#Класс  ",
+  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\" -tag:#Раса  -file:\".canvas\" -file:\".base\" -path:Шаблоны  -tag:#Класс  -tag:#Свойство  -tag:#Предмет  -tag:#Тип  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
