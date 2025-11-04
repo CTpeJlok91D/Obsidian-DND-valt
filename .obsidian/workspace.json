@@ -65,13 +65,12 @@
             "id": "7a3a362cf125eaca",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "Изображения.base",
-                "viewName": "Table"
+                "file": "Images/Каэл'зур.png"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Изображения"
+              "icon": "lucide-image",
+              "title": "Каэл'зур"
             }
           }
         ],
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5,
-    "collapsed": true
+    "width": 504.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,9 +265,11 @@
   },
   "active": "7a3a362cf125eaca",
   "lastOpenFiles": [
+    "Задания/🎯Разогнать хулиганов.md",
+    "Images/Каэл'зур.png",
+    "Изображения.base",
     "Предметы/Оружие/Оружие.base",
     "Персонажи/Живые/Виктор/⚖️Виктор - кожанник.md",
-    "Изображения.base",
     "Images/Оружие без картинки.png",
     "Персонажи/Живые/🗿 Арамис ДеСант Старший.md",
     "Страны/Палланор/Авалон/NPC.base",
@@ -311,7 +311,6 @@
     "Images/Наборный доспех.png",
     "Images/Латы.png",
     "Images/Кольчуша.png",
-    "Images/Кольчужная рубаха.png",
     "Страны/Палланор/Глушь/📌Лаборатория Грика.canvas",
     "Страны/Палланор/Авалон/🗺️Авалон.canvas",
     "Страны/Палланор/Заряново/🛖Заряново.canvas",
