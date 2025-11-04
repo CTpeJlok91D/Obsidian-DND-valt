@@ -1,9 +1,0 @@
-views:
-  - type: cards
-    name: Table
-    filters:
-      or:
-        - file.name.contains("png")
-        - file.name.contains("jpg")
-        - file.name.contains("jpeg")
-    image: file.file
