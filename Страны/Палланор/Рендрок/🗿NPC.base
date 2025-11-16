@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Карты
+    filters:
+      and:
+        - file.hasTag("NPC")
+        - file.hasLink("Страны/Палланор/Рендрок/🏙️Рендрок")
+    order:
+      - file.name
+      - Раса
+      - Местоположение
+    image: note.Изображение
+    imageFit: ""
+    imageAspectRatio: 1.5

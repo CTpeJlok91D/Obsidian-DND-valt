@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Страны/Палланор/Рендрок/🏙️Рендрок")
+        - file.hasTag("Задание")
+    order:
+      - file.name
+      - Выполнено
+      - Провелено
+      - Выдаватель
+      - Исполнитель
+    sort:
+      - property: Провелено
+        direction: ASC
+      - property: Выполнено
+        direction: ASC
+    markers: none
+    indentProperties: false

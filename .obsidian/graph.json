@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\" -tag:#Раса  -file:\".canvas\" -file:\".base\" -path:Шаблоны  -tag:#Класс  -tag:#Свойство  -tag:#Предмет  -tag:#Тип  -tag:#Выполнено -tag:#Событие -[\"выполнено\":true] -[\"провелено\":true]",
+  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -tag:#Событие  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -42,10 +42,10 @@
   "nodeSizeMultiplier": 1.78054960742327,
   "lineSizeMultiplier": 1.13700927908637,
   "collapse-forces": false,
-  "centerStrength": 0.160242683797288,
-  "repelStrength": 13.5974304068522,
-  "linkStrength": 1,
+  "centerStrength": 0.171663097787295,
+  "repelStrength": 14.3968593861527,
+  "linkStrength": 0.508565310492505,
   "linkDistance": 215,
-  "scale": 0.27903563598324715,
+  "scale": 0.6633963768298704,
   "close": false
 }
