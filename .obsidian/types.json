@@ -43,6 +43,8 @@
     "Вес": "number",
     "Задания": "multitext",
     "Свойства": "multitext",
-    "Родственники": "multitext"
+    "Родственники": "multitext",
+    "Выполнено": "checkbox",
+    "Провелено": "checkbox"
   }
 }

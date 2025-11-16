@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\" -tag:#Раса  -file:\".canvas\" -file:\".base\" -path:Шаблоны  -tag:#Класс  -tag:#Свойство  -tag:#Предмет  -tag:#Тип  ",
+  "search": "-file:\"📖\" -file:\"🏳️\" -file:\"👤\"  -file:\"🚩\" -tag:#Монстр  -file:\"📦\" -tag:#Раса  -file:\".canvas\" -file:\".base\" -path:Шаблоны  -tag:#Класс  -tag:#Свойство  -tag:#Предмет  -tag:#Тип  -tag:#Выполнено -tag:#Событие -[\"выполнено\":true] -[\"провелено\":true]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.58020833333333,
-  "lineSizeMultiplier": 1.75885416666667,
-  "collapse-forces": true,
-  "centerStrength": 0.377230549607423,
-  "repelStrength": 13.4375,
-  "linkStrength": 0.913990007137759,
-  "linkDistance": 170,
-  "scale": 0.5850013234419527,
-  "close": true
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.78054960742327,
+  "lineSizeMultiplier": 1.13700927908637,
+  "collapse-forces": false,
+  "centerStrength": 0.160242683797288,
+  "repelStrength": 13.5974304068522,
+  "linkStrength": 1,
+  "linkDistance": 215,
+  "scale": 0.27903563598324715,
+  "close": false
 }

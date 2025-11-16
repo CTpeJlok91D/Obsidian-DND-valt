@@ -35,7 +35,7 @@
 		{"id":"8a8c591a9ded07ab","type":"text","text":"Шпана\nГоворит дерзко и через чур современно","x":478,"y":2572,"width":402,"height":168},
 		{"id":"c9e14469eb5bbdb7","type":"file","file":"Персонажи/Живые/🗿Баб Сабля.md","x":-1665,"y":780,"width":540,"height":239},
 		{"id":"95dad139c9021419","type":"file","file":"Персонажи/Живые/🗿Мелисса.md","x":-1665,"y":1050,"width":540,"height":270},
-		{"id":"326ce7fd80fbfc38","type":"file","file":"Персонажи/Живые/🗿Торговец сувенирами.md","x":-1665,"y":400,"width":540,"height":320}
+		{"id":"326ce7fd80fbfc38","type":"file","file":"Персонажи/Живые/⚖️Торговец сувенирами.md","x":-1665,"y":400,"width":540,"height":320}
 	],
 	"edges":[
 		{"id":"af8007c66358e2ba","fromNode":"c9e14469eb5bbdb7","fromSide":"left","toNode":"e9401f28cac98bca","toSide":"right"},
