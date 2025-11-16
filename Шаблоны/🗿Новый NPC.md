@@ -23,7 +23,7 @@
 # История
 ```base
 views:
-  - type: table
+  - type: list
     name: Table
     filters:
       and:
