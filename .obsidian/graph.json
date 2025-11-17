@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -tag:#Событие  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса  ",
+  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -tag:#Событие  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 8.00142755174875,
   "linkStrength": 0.462883654532477,
   "linkDistance": 215,
-  "scale": 0.6633963768298704,
-  "close": true
+  "scale": 0.2185381835815442,
+  "close": false
 }
