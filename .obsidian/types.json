@@ -45,6 +45,8 @@
     "Свойства": "multitext",
     "Родственники": "multitext",
     "Выполнено": "checkbox",
-    "Провелено": "checkbox"
+    "Провелено": "checkbox",
+    "Классы": "multitext",
+    "Класс": "multitext"
   }
 }
