@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c291b804b1e58614",
+            "id": "2c780ba1cffaeaa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблоны/👤Новый игрок.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "👤Новый игрок"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -203,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 504.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +218,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02ac24e93c0af95b",
+  "active": "2c780ba1cffaeaa7",
   "lastOpenFiles": [
+    "Шаблоны/👤Новый игрок.md",
     "Images/Pasted image 20251123130055.png",
     "Персонажи/Рендрок/⚖️Знахарка Рива.md",
     "Персонажи/Рендрок/⚖️Кузнец Дургрим.md",
