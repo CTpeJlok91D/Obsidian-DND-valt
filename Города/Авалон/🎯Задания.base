@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("Страны/Палланор/Авалон/🏙️Авалон")
+        - file.hasLink("Города/Авалон/🏢Авалон")
         - file.hasTag("Задание")
     order:
       - file.name
