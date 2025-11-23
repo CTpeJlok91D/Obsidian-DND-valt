@@ -3,8 +3,8 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("Страны/Палланор/Рендрок/🏙️Рендрок")
         - file.hasTag("Задание")
+        - file.hasLink("Страны/Палланор/Рендрок/🏢Рендрок")
     order:
       - file.name
       - Выполнено

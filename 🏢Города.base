@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.tags.contains("Город")
+        - '!file.inFolder("Шаблоны")'
     order:
       - file.name
       - Страна
