@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -tag:#Событие  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса ",
+  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -tag:#Событие  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса -tag:#Способность  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Локация  ",
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1.78054960742327,
   "lineSizeMultiplier": 1.13700927908637,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.171663097787295,
   "repelStrength": 8.00142755174875,
   "linkStrength": 0.462883654532477,
   "linkDistance": 215,
-  "scale": 0.31642873699596447,
-  "close": true
+  "scale": 0.4581677396412528,
+  "close": false
 }
