@@ -174,12 +174,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 504.5,
-    "collapsed": true
+    "width": 504.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d882f2c3c5c8570b",
+  "active": "a910b220d11f3eab",
   "lastOpenFiles": [
     "Персонажи/Рендрок/⚖️Знахарка Рива.md",
     "Персонажи/Рендрок/⚖️Кузнец Дургрим.md",
