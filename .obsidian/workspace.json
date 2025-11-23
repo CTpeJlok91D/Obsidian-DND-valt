@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c780ba1cffaeaa7",
+            "id": "754ee9f938899693",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -218,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c780ba1cffaeaa7",
+  "active": "754ee9f938899693",
   "lastOpenFiles": [
     "Шаблоны/👤Новый игрок.md",
     "Images/Pasted image 20251123130055.png",
