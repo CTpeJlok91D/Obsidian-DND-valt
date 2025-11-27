@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.hasTag("NPC")
-        - file.hasLink("Страны/Палланор/Рендрок/🏙️Рендрок")
+        - file.hasLink("Города/Рендрок/🏢Рендрок")
     order:
       - file.name
       - Раса
