@@ -1,11 +1,6 @@
 formulas:
   Untitled: ""
 views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.hasTag("Монстр")
   - type: cards
     name: Карты
     filters:
