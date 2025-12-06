@@ -23,12 +23,18 @@
 # История
 ```base
 views:
-  - type: list
+  - type: table
     name: Table
     filters:
       and:
         - file.hasLink(this)
         - file.hasTag("#Событие")
+    order:
+      - file.name
+      - Игроки
+      - Город
+      - Игровая дата
+      - Реальная дата
 
 ```
 

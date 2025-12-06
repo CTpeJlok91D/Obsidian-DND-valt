@@ -47,6 +47,8 @@
     "Выполнено": "checkbox",
     "Провелено": "checkbox",
     "Классы": "multitext",
-    "Класс": "multitext"
+    "Класс": "multitext",
+    "КД": "number",
+    "Монстры": "multitext"
   }
 }
