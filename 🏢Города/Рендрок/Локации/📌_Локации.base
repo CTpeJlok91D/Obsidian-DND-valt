@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("🏢Города/Рендрок/Локации")
+    order:
+      - file.name
+      - Номер
+    image: note.Изображение

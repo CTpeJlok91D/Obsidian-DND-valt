@@ -49,6 +49,7 @@
     "Классы": "multitext",
     "Класс": "multitext",
     "КД": "number",
-    "Монстры": "multitext"
+    "Монстры": "multitext",
+    "Награда": "multitext"
   }
 }
