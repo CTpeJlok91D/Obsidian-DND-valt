@@ -3,13 +3,16 @@ views:
     name: Доспехи карты
     filters:
       and:
-        - file.inFolder("Предметы/Особые")
+        - file.inFolder("📦Предметы")
+        - '!file.inFolder("📦Предметы/Оружие")'
+        - '!file.inFolder("📦Предметы/Доспехи")'
+        - '!file.inFolder("📦Предметы/Свойста")'
     order:
       - file.name
       - Стоимость
     image: note.Изображение
     imageFit: ""
-    imageAspectRatio: 1.45
+    imageAspectRatio: 1.5
   - type: table
     name: Таблица
     filters:
