@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.inFolder("🏢Города/Рендрок/Локации")
+        - '!file.name.contains("_")'
     order:
       - file.name
       - Номер

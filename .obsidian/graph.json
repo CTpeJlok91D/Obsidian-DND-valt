@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -tag:#Событие  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса -tag:#Способность  -tag:#Заклинание  ",
+  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса -tag:#Способность  -tag:#Заклинание  -tag:#Рецепт  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Событие",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -41,11 +48,11 @@
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1.78054960742327,
   "lineSizeMultiplier": 1.13700927908637,
-  "collapse-forces": true,
-  "centerStrength": 0.171663097787295,
-  "repelStrength": 8.00142755174875,
-  "linkStrength": 0.462883654532477,
-  "linkDistance": 215,
-  "scale": 0.15155312667154194,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 9.48608137044968,
+  "linkStrength": 0.571377587437545,
+  "linkDistance": 269,
+  "scale": 0.07228825199442392,
   "close": false
 }
