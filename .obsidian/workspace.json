@@ -10,15 +10,49 @@
           {
             "id": "0ddf0810eadfcbef",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏢Города/Ряженка/🏢Ряженка.md",
+                "file": "👤Игроки/Пачаток/👤ДеСант Глуа.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "🏢Ряженка"
+              "title": "👤ДеСант Глуа"
+            }
+          },
+          {
+            "id": "949705fa518f76e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👤Игроки/Пачаток/👤Лия.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "👤Лия"
+            }
+          },
+          {
+            "id": "cd8feb0136dbd2ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👤Игроки/Пачаток/👤София.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "👤София"
             }
           },
           {
@@ -35,7 +69,8 @@
               "title": "🧌Душегуб"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,10 +264,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ddf0810eadfcbef",
+  "active": "949705fa518f76e8",
   "lastOpenFiles": [
-    "🧌Бестиарий/🧌Душегуб.md",
+    "👤Игроки/Пачаток/👤ДеСант Глуа.md",
+    "👤Игроки/Пачаток/👤София.md",
+    "👤Игроки/Пачаток/👤Лия.md",
     "🏢Города/Ряженка/🏢Ряженка.md",
+    "🧌Бестиарий/🧌Душегуб.md",
     "🗿Персонажи/Рендрок/Связанные с душегобом персонажи/🗿Марко - забытый волшебник.md",
     "📜Заклинания/Душегуб/Безумный вопль.md",
     "_Аудио/Голоса в голове.mp3",
@@ -260,9 +298,6 @@
     "📜Заклинания/2 уровень/Нивидимость.md",
     "🧌Бестиарий/🧌Медвесыч.md",
     "_Изоброжения/Гигинтский краб.png",
-    "⭐Классы/⚔️Воин/⚔️Воин.md",
-    "⭐Классы/🔪Плут/Невероятное уклонение.md",
-    "⭐Классы/🔪Плут/🔪Плут.md",
     "⭐Классы/🔪Плут/Архетипы",
     "🏢Города/Рендрок/🗿NPC.base",
     "⭐Классы/🔪Плут",
