@@ -78,46 +78,11 @@
   "version": "11.4.2",
   "viewResults": [
     {
-      "result": "6",
-      "original": "1d10+5",
-      "resultText": "1d10+5\n[1]+5",
-      "timestamp": 1767704206468,
-      "id": "UJLGKhvsTZT0"
-    },
-    {
-      "result": "11",
-      "original": "2d8 + 5",
-      "resultText": "2d8 + 5\n[1, 5] + 5",
-      "timestamp": 1767704206469,
-      "id": "OgfSuJS_0ErU"
-    },
-    {
-      "result": "2",
-      "original": "d4",
-      "resultText": "d4\n[2]",
-      "timestamp": 1767704354132,
-      "id": "AnzoOCe6i_oo"
-    },
-    {
-      "result": "34",
-      "original": "1d100",
-      "resultText": "1d100\n[34]",
-      "timestamp": 1767704354133,
-      "id": "pjXMC_awMjCc"
-    },
-    {
-      "result": "3",
-      "original": "2d4",
-      "resultText": "2d4\n[1, 2]",
-      "timestamp": 1767704354133,
-      "id": "gugzTG7Tn2KE"
-    },
-    {
-      "result": "4",
-      "original": "2d4",
-      "resultText": "2d4\n[3, 1]",
-      "timestamp": 1767704354133,
-      "id": "0nvpaVFR03e6"
+      "result": "145",
+      "original": "15d20",
+      "resultText": "15d20\n[8, 2, 3, 7, 8, 13, 3, 20, 4, 12, 18, 15, 19, 7, 6]",
+      "timestamp": 1767714150107,
+      "id": "K6jIMBghG1xY"
     }
   ]
 }
