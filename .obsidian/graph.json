@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#Тип -Tag:#Группа_людей  -tag:#Раса -tag:#Свойство  -tag:#Предмет  -tag:#Игрок  -file:.canvas -tag:#Страна  -tag:#Монстр  -path:Шаблоны  -file:.base -tag:#Класс  -tag:#Раса -tag:#Способность  -tag:#Заклинание  -tag:#Рецепт  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.78054960742327,
   "lineSizeMultiplier": 1.13700927908637,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.48608137044968,
-  "linkStrength": 0.571377587437545,
-  "linkDistance": 269,
+  "centerStrength": 0.234475374732334,
+  "repelStrength": 10.3997144896503,
+  "linkStrength": 0.234475374732334,
+  "linkDistance": 30,
   "scale": 0.07228825199442392,
-  "close": false
+  "close": true
 }
