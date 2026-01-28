@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "dataview",
   "obsidian-excalidraw-plugin",
   "advanced-canvas",
@@ -8,5 +7,6 @@
   "obsidian-dice-roller",
   "initiative-tracker",
   "templater-obsidian",
-  "buttons"
+  "buttons",
+  "obsidian-git"
 ]

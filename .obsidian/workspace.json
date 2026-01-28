@@ -73,14 +73,14 @@
             "id": "ac831d21e78aba53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "🗿Персонажи/Рендрок/🗿Констебль.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "🗿Констебль"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json"
             }
           }
         ],
@@ -245,7 +245,7 @@
             }
           },
           {
-            "id": "a910b220d11f3eab",
+            "id": "256ad787ae384ff6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -255,12 +255,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 504.5,
-    "collapsed": true
+    "width": 504.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,15 +270,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02ac24e93c0af95b",
+  "active": "ac831d21e78aba53",
   "lastOpenFiles": [
+    "🗿Персонажи/Рендрок/🗿Констебль.md",
     "🗿Персонажи/Рендрок/🗿Бездельник Пелигрим.md",
     "📃События/Рендрок/📃Арест Пелигримма.md",
     "📃События/Рендрок/📃Сожжение фермы с наркотой.md",
@@ -305,7 +305,6 @@
     "🗿Персонажи/Авалон/🗿Воин Боривик.md",
     "🗿Персонажи/Рендрок/🗿Охотник на чудовищ Родовин.md",
     "⭐Классы/🔪Плут/Дополнительные владения.md",
-    "⭐Классы/⚔️Воин/Архетипы/Мистический рыцарь.md",
     "_Изоброжения/Каэл'зур.png",
     "_Изоброжения/Pasted image 20250715105952.png",
     "_Аудио/Голоса в голове.mp3",
