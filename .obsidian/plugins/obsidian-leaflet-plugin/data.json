@@ -29,7 +29,8 @@
     },
     {
       "id": "глобальная_карта",
-      "lastAccessed": 1767173708749,
+      "locked": false,
+      "lastAccessed": 1777200434014,
       "markers": [
         {
           "id": "ID_58b9e8c9cb99",
@@ -115,16 +116,16 @@
           "id": "ID_6928493b58ea",
           "type": "Город",
           "loc": [
-            -0.0019776611207943558,
-            0.03809765204804103
+            -0.0020284435251323083,
+            0.03797932527177251
           ],
           "link": "Рендрок",
           "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.32509996414328346,
-            0.03000185166953215
+            0.3240902423191254,
+            0.030772239551636795
           ],
           "description": null,
           "minZoom": 0,
@@ -175,16 +176,16 @@
           "id": "ID_ca4b5b6aeb99",
           "type": "Город",
           "loc": [
-            -0.009540349431910938,
-            0.0295569532865866
+            -0.00958115877828452,
+            0.029563485419481512
           ],
           "link": "🏙️Авалон",
           "layer": "%5B%5B%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.25338524539625124,
-            0.1476851851851852
+            0.25227507557957557,
+            0.14534972724390144
           ],
           "description": null,
           "minZoom": 0,
@@ -232,7 +233,40 @@
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 0.010185375998536696,
+              "lng": 0.0384972686046387,
+              "id": "ID_e9dbbadb7968",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 0.007897982236153456,
+              "lng": 0.042554155654903315,
+              "id": "ID_c869bb2b3a9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 0.010185375998536696,
+              "lng": 0.0384972686046387,
+              "id": "ID_3a1a497a28e9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
       "files": [
         "🌏Мир/Глобальная карта (В км).md"
       ]
@@ -321,8 +355,8 @@
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {
-    "darkMode": "false",
-    "defaultZoom": 12,
+    "darkMode": false,
+    "defaultZoom": 13.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -330,11 +364,11 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "height": "100%",
-    "image": "[[Авалон.webp]]",
+    "image": "[[Глобальная карта.jpg]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Авалон.webp]]"
+      "[[Глобальная карта.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -343,20 +377,20 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 13,
-    "minZoom": 9,
+    "maxZoom": 15,
+    "minZoom": 13.5,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 1500,
+    "scale": 100000,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "авалон",
+    "id": "глобальная_карта",
     "width": "100%",
-    "unit": "m",
+    "unit": "km",
     "filterTag": []
   },
   "enableDraw": true,
